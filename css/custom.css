@@ -1,14 +1,11 @@
-body , html {
-	width: 100;
-	height: 100;
+
+#page {
 	background-color: green;
-	color:white;
-}
-
-
-
-a.nav.navbar-brand {
 	color: white;
+}
+a.nav.navbar-brand {
+	color: white; 
+
 }
 
 li.nav-item.active {
@@ -17,4 +14,8 @@ li.nav-item.active {
 a,li.nav-item.active {
 	color: white;
 	float: left;
+}
+
+#socket {
+	text-align: center;
 }
