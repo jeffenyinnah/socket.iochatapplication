@@ -20,5 +20,21 @@ a,li.nav-item.active {
 
 #socket {
 	text-align: center;
-	padding:70px;
+	padding: 35px;
+}
+.input-bar {
+    display: table;
+    width: 100%;
+}
+
+.input-bar-item {
+    display: table-cell;
+}
+
+.input-bar-item > button {
+    margin-left: 0;
+}
+
+.width100 {
+  width: 100%;
 }
