@@ -1,6 +1,9 @@
 
-#page {
+body {
 	background-color: green;
+}
+#page {
+	background-color:;
 	color: white;
 
 }
@@ -37,4 +40,9 @@ a,li.nav-item.active {
 
 .width100 {
   width: 100%;
+}
+/*================ footer=========*/
+#footer {
+	position:relative;
+   
 }
