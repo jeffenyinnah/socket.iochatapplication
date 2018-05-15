@@ -10,6 +10,11 @@ body , html {
 a.nav.navbar-brand {
 	color: white;
 }
+
+li.nav-item.active {
+	overflow: hidden
+}
 a,li.nav-item.active {
 	color: white;
+	float: left;
 }
