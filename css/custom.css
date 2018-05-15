@@ -43,6 +43,9 @@ a,li.nav-item.active {
 }
 /*================ footer=========*/
 #footer {
-	position:relative;
+	position:absolute;
+	margin: 0;
+	bottom:0;
+
    
 }
