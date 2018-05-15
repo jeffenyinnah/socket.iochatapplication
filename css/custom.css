@@ -2,7 +2,9 @@
 #page {
 	background-color: green;
 	color: white;
+
 }
+
 a.nav.navbar-brand {
 	color: white; 
 
@@ -18,4 +20,5 @@ a,li.nav-item.active {
 
 #socket {
 	text-align: center;
+	padding:70px;
 }
